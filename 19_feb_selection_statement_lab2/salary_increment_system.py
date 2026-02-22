@@ -28,3 +28,8 @@ else:
         increment = increment + 5
 
     print("Total salary increment percentage:", increment, "%")
+
+#output
+#Enter performance rating (1-5): 6
+#Enter years of experience: 5
+#Enter attendance percentage: 90
