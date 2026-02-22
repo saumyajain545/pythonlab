@@ -16,3 +16,9 @@ if festival == "yes":
 
 final_amount = cart_value - (cart_value * discount / 100)
 print("Final payable amount: ₹", final_amount)
+
+#output
+#Enter cart value: 1000
+#Enter membership (Silver/Gold/Platinum): gold
+#Is it festival season? (yes/no): yes
+#Final payable amount: ₹ 800.0
