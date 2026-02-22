@@ -13,3 +13,7 @@ if flag:
     print("Prime number")
 else:
     print("Not a prime number")
+
+#output
+#Enter a number: 7
+#Prime number
