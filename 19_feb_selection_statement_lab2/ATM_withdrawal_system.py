@@ -15,3 +15,8 @@ else:
     account_balance = account_balance - withdraw_amount
     atm_cash = atm_cash - withdraw_amount
     print("Transaction successful. Remaining balance: ₹", account_balance)
+
+#output
+#Enter account balance (₹): 60000
+#Enter ATM available cash (₹): 100000
+#Enter withdrawal amount (₹): -500
