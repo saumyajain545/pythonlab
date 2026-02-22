@@ -14,3 +14,9 @@ if age > 65 and condition == "Moderate":
     condition = "Critical"
 
 print("Patient priority:", condition)
+
+#output
+#Enter patient age: 40
+#Enter heart rate (bpm): 120
+#Severe injury? (yes/no): no
+#Patient priority: Critical
