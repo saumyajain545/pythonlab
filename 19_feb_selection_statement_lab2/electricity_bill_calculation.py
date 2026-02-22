@@ -12,3 +12,8 @@ if senior == "yes":
     bill *= 0.9
 
 print("Total electricity bill: ₹", bill)
+
+#output
+#Enter units consumed: 80
+#Is senior citizen? (yes/no): no
+#Total electricity bill: ₹ 400
