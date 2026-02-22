@@ -23,3 +23,7 @@ else:
             print("Loss: Rs", (cp - sp))
         else:
             print("No profit no loss")
+#output
+#Enter cost price(in Rs): 500
+#Enter selling price(in Rs): 650
+#Profit: Rs 150.0
