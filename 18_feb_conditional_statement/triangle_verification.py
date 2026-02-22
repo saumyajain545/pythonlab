@@ -23,3 +23,9 @@ else:
                 print("The three angles can form a triangle")
             else:
                 print("The three angles cannot form a triangle")
+
+#output
+#Enter first angle: 60
+#Enter second angle: 60
+#Enter third angle: 60
+#The three angles can form a triangle
