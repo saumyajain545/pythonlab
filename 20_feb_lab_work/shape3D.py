@@ -35,11 +35,11 @@ def cone_volume(radius, height):
     return (1/3) * PI * radius**2 * height
 
 def cone_surface_area(radius, height):
-    l = (radius*2 + height2) * 0.5  # slant height using **0.5
+    l = (radius*2 + height) * 0.5  # slant height using **0.5
     return PI * radius * (radius + l)
 
 def cone_curved_surface_area(radius, height):
-    l = (radius*2 + height2) * 0.5  # slant height
+    l = (radius*2 + height) * 0.5  # slant height
     return PI * radius * l
 
 # ------------------ Sphere ------------------
