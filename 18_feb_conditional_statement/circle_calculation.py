@@ -11,3 +11,8 @@ else:
 
     perimeter = 2 * 3.14 * r
     print("The perimeter is:", perimeter)
+#output
+#Enter the radius of the circle: 5
+#The area is: 78.5
+#The perimeter is: 31.400000000000002
+    
