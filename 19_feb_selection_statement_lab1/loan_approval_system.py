@@ -11,3 +11,9 @@ elif 600 <= credit <= 750:
         print("Further income verification required.")
 else:
     print("Loan Approved.")
+
+#output
+#Enter credit score: 550
+#Enter monthly income: 40000
+#Enter existing loan amount: 200000
+#Loan Rejected.
