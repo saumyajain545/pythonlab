@@ -10,7 +10,7 @@ def calculate_subtraction(a, b):
   
     print("The result of subtracting {b} from {a} is: ", a - b)
 
-def displaye_multiplication(a, b):
+def display_product(a, b):
     return a * b
 def calculate_multiplication(a, b):
     
