@@ -15,3 +15,8 @@ while attempts < 3:
 
 if attempts == 3:
     print("Account locked due to 3 failed attempts.")
+
+#output
+#Enter username: admin
+#Enter password: 1234
+#Login successful!
