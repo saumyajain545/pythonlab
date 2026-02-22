@@ -10,7 +10,12 @@ hra = basic_salary * hra_percentage / 100
 total_salary = basic_salary + hra + bonus
 
 # Display results
-print("Basic Salary: ₹", basic_salary)
-print("HRA (20% of Basic): ₹", hra)
-print("Bonus: ₹", bonus)
-print("Total Monthly Salary: ₹", total_salary)
+print("Basic Salary: ", basic_salary)
+print("HRA (20% of Basic): ", hra)
+print("Bonus: ", bonus)
+print("Total Monthly Salary: ", total_salary)
+#output
+#Basic Salary:  25000
+#HRA (20% of Basic):  5000.0
+#Bonus:  5000
+#Total Monthly Salary:  35000.0
