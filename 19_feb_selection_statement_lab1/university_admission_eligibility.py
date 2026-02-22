@@ -10,3 +10,9 @@ elif entrance < 80:
     print("Rejected: Entrance score below 80.")
 else:
     print("Eligible for admission.")
+
+#output
+#Enter 12th percentage: 68
+#Studied Mathematics? (yes/no): yes
+#Enter entrance exam score: 90
+#Rejected: Less than 75% in 12th.
