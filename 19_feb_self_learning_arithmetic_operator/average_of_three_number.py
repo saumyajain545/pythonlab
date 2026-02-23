@@ -13,3 +13,9 @@ average = total / 3
 
 # Display the average
 print("The average of the three numbers is:", average)
+
+#output
+#Enter the first number: 10
+#Enter the second number: 20
+#Enter the third number: 30
+#The average of the three numbers is: 20.0
