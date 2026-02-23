@@ -7,3 +7,7 @@ while num != 0:
     num //= 10
 
 print("Reversed number:", reverse)
+
+#output
+#Enter a number: 1234
+#Reversed number: 4321
