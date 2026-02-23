@@ -25,3 +25,9 @@ compound_interest = amount - principal
 # Display the results
 print("Compound Interest: {:.2f}".format(compound_interest))
 print("Total Amount after", time, "years: {:.2f}".format(amount))
+
+#output
+#Enter the principal amount (P): 10000
+#Enter the annual interest rate (R%) : 10
+#Enter the time period in years (T): 2
+#Enter number of times interest is compounded per year (n): 1
