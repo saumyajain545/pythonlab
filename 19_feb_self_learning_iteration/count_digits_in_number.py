@@ -6,3 +6,7 @@ while num != 0:
     num //= 10
 
 print("Number of digits:", count)
+
+#output
+#Enter a number: 4567
+#Number of digits: 4
