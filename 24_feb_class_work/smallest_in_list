@@ -1,0 +1,19 @@
+# Function to find the smallest element in a list
+def smallest_element(lst):
+    smallest = lst[0]  # Assume first element is the smallest initially
+    for item in lst:
+        if item < smallest:
+            smallest = item  # Update smallest if current item is smaller
+    return smallest
+
+# Read list elements from the user
+elements = input("Enter list elements separated by spaces: ").split()
+# Convert input to integers
+elements = [int(x) for x in elements]
+
+# Call the function and print the smallest element
+print("Smallest element in the list is:", smallest_element(elements))
+
+#output
+#Enter list elements separated by spaces: 10 25 5 70 30
+#Smallest element in the list is: 5
