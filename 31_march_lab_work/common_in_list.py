@@ -1,0 +1,17 @@
+# Input lists
+list1 = [1, 2, 3, 4, 5]
+list2 = [3, 4, 5, 6, 7]
+
+# Empty list for common elements
+common = []
+
+# Finding common elements
+for item in list1:
+    if item in list2 and item not in common:
+        common.append(item)
+
+# Output result
+print("Common Elements:", common)
+
+#output
+#Common Elements: [3, 4, 5]
